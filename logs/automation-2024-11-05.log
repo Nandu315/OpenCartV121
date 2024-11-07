@@ -1,0 +1,51 @@
+17:17:28.079 [main] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+17:17:29.924 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+17:17:32.944 [main] INFO  testCases.TC002_LoginTest - ****** Starting login pagetest*******
+17:17:34.302 [main] INFO  testCases.TC002_LoginTest - ****** Finished login pagetest*******
+17:18:48.466 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+17:18:48.663 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+17:18:49.482 [main] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+17:18:49.483 [main] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+17:18:50.818 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+17:18:54.108 [main] INFO  testCases.TC002_LoginTest - ****** Starting login pagetest*******
+17:19:24.857 [main] INFO  testCases.TC002_LoginTest - ****** Starting login pagetest*******
+17:20:56.320 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+17:20:56.411 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+17:20:57.171 [main] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+17:20:57.171 [main] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+17:20:58.487 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+17:21:01.720 [main] INFO  testCases.TC002_LoginTest - ****** Starting login pagetest*******
+11:18:09.023 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+11:18:09.110 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+11:18:09.827 [main] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+11:18:09.827 [main] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+11:18:11.544 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+11:18:14.474 [main] INFO  testCases.TC002_LoginTest - ****** Starting login pagetest*******
+11:18:16.021 [main] INFO  testCases.TC002_LoginTest - ****** Finished login pagetest*******
+11:19:19.291 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+11:19:19.412 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+11:19:20.182 [main] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+11:19:20.182 [main] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+11:19:21.532 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+11:19:25.044 [main] INFO  testCases.TC002_LoginTest - ****** Starting login pagetest*******
+11:19:26.480 [main] INFO  testCases.TC002_LoginTest - ****** Finished login pagetest*******
+11:27:04.023 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+11:27:04.173 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+11:27:04.871 [main] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+11:27:04.871 [main] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+11:27:06.349 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+11:27:09.933 [main] INFO  testCases.TC002_LoginTest - ****** Starting login pagetest*******
+11:27:11.424 [main] INFO  testCases.TC002_LoginTest - ****** Finished login pagetest*******
+11:44:07.818 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+11:44:07.960 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+11:44:27.969 [main] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+11:44:27.969 [main] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+11:44:30.112 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+11:44:36.626 [main] INFO  testCases.TC002_LoginTest - ****** Starting login pagetest*******
+11:44:39.319 [main] INFO  testCases.TC002_LoginTest - ****** Finished login pagetest*******
+11:45:58.227 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+11:45:58.336 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+11:45:58.877 [main] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+11:45:58.877 [main] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+11:46:00.496 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+11:46:04.419 [main] INFO  testCases.TC002_LoginTest - ****** Starting login pagetest*******

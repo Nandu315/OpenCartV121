@@ -1,0 +1,4 @@
+20:43:05.434 [main] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+20:43:06.651 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+20:43:10.292 [main] INFO  testCases.TC002_LoginTest - ****** Starting login pagetest*******
+20:43:11.573 [main] INFO  testCases.TC002_LoginTest - ****** Finished login pagetest*******

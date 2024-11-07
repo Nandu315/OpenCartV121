@@ -1,0 +1,46 @@
+19:41:26.926 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+19:41:27.356 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+19:41:27.708 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+19:41:29.195 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+19:41:29.195 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+19:41:31.310 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+19:41:32.439 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+19:42:13.722 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+19:42:14.105 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+19:42:15.352 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+19:42:15.352 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+19:42:19.687 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+19:42:19.859 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+19:42:21.786 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+19:42:22.004 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+19:42:22.789 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+19:42:22.903 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+19:42:22.903 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+19:42:24.586 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+19:55:28.695 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+19:55:28.984 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+19:55:30.212 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+19:55:30.214 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+19:55:30.568 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+19:55:31.161 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+19:55:33.082 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+19:55:33.082 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+19:55:34.822 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+19:55:35.007 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+19:55:35.503 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+19:55:36.728 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+19:55:36.731 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+19:55:36.731 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+19:55:39.053 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+19:58:04.841 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+19:58:04.953 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+19:58:05.435 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
+19:58:05.435 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest -  providing customer details 
+19:58:06.724 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message 
+13:48:05.798 [main] INFO  testCases.TC002_LoginTest - ****** Starting login pagetest*******
+13:48:07.139 [main] INFO  testCases.TC002_LoginTest - ****** Finished login pagetest*******
+13:38:17.896 [main] INFO  testCases.TC002_LoginTest - ****** Starting login pagetest*******
+13:38:24.568 [main] INFO  testCases.TC002_LoginTest - ****** Finished login pagetest*******
+17:17:27.079 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Starting TC001_AccountRegistrationTest ********
+17:17:27.185 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myaccount
+17:17:28.079 [main] INFO  testCases.TC001_AccountRegistrationTest -  clicked on Resister Link 
